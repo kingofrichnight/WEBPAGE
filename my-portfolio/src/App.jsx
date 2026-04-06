@@ -385,7 +385,7 @@ export default function AaryaPortfolio() {
                     rel="noopener noreferrer"
                     className="inline-flex items-center justify-center mt-4 px-4 py-2 rounded-xl border border-emerald-400/20 bg-emerald-500/10 text-emerald-200 text-sm font-medium transition duration-300 hover:bg-emerald-500/20 hover:border-emerald-400/40"
                   >
-                    🔗 View on GitHub
+                    View on GitHub
                   </a>
                 )}
               </div>
